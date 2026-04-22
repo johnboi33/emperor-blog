@@ -6,8 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://github.com/johnboi33/emperor-blog',
-	base: '/my-repo',
+	site: 'https://Emperorblog.com',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
